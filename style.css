@@ -5,7 +5,11 @@ body{
     flex-direction: column;
     align-items: center;
    }
-
+h1{
+    color: rgb(34, 0, 255);
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 3.5rem;
+}
 h2{
     color:rgb(34, 0, 255);
     font-family: 'Sansita Swashed', cursive;
